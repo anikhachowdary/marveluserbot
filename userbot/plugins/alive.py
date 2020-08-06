@@ -31,7 +31,7 @@ async def amireallyalive(alive):
          cat_caption += f"☞Telethon version : `{version.__version__}\n`"
          cat_caption += f"☞Catuserbot Version : `{catversion}`\n"
          cat_caption += f"☞Python Version : `{python_version()}\n\n`"
-         cat_caption += f"**cat🐱 is always with you, my master!\n**"
+         cat_caption += f"**Marvel is always with you, my master!\n**"
          cat_caption += f"☞My peru Master: {DEFAULTUSER}\n"
          cat_caption += f"☞uptime : `{uptime}\n`"
          cat_caption +=	f"☞**Click **[here](https://github.com/sandy1709/catuserbot) to deploy catuserbot"
